@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    background-color: rgb(28, 149, 165);
+    height: 100px;
+}
+
+header h1 {
+    color: antiquewhite;
+    text-align: center;
+    text-transform: uppercase;
+    height: 30px;
+    padding-top: 25px;
+}
+
+.heder-menu{
+    background-color: gray;
+}
+
+.heder-menu ul {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.heder-menu ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.heder-menu ul li a{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.hero-section {
+    background-image: url(Slike/lol_4.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 590px;
+    width: 2000px;
+}
+
+
+.hero-section h1{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.hero-section p {
+    color: #fff;
+
+}
+
+.hero-section2{
+    background-color: aquamarine;
+}
+
+.hero-section2 .Rift {
+    color: #fff;
+    padding-left: 15px;
+    padding-top: 80px;
+}
+
+.hero-section2 .Treeline {
+    color: #fff;
+    padding-left: 15px;
+    padding-top: 80px;
+}
+
+.hero-section3 {
+    background-image: url(Slike/lol_5.png);
+    width: 1920px;
+    height: 750px;
+}
+
+.hero-section3 h1 {
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.hero-section3 p {
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.hero-section4 {
+    background-image: url(Slike/lol_15.png);
+    width: 1920px;
+    height: 850px;
+}
+
+.hero-section4 h1 {
+    color: #fff;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.hero-section4 p {
+    color: #fff;
+    font-size: 22px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+footer {
+    background-color:  rgb(28, 149, 165);
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+}
